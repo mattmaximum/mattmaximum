@@ -14,14 +14,14 @@ Outside of professional program management, this GitHub is where I build and run
 ## Featured Projects
 
 **[anonretro](https://github.com/mattmaximum/anonretro)**  
-*Description coming soon.*
+A self-hosted retrospective tool where cards stay hidden until the facilitator reveals them — eliminating anchoring bias so every voice surfaces at once. Participants join via shared link with no account required; anonymity is enforced server-side, not just CSS.
 
 **[helios-dashboard](https://github.com/mattmaximum/helios-dashboard)**  
-*Description coming soon.*
+A real-time solar weather dashboard that visually transforms when geomagnetic storms hit — shifting from calm blue-black to deep crimson at G2+ events, with live NOAA SWPC data for Kp-index, solar wind speed, and interplanetary magnetic field.
 
 ---
 
-## What I'm Currently Building
+## What I'm Currently Tinkering With
 
 - **Homelab & Virtualization** — Container orchestration, virtualized environments, and automated NAS management via Synology
 - **Advanced Networking** — Secure mesh networking with Tailscale and enterprise-grade routing via UniFi
@@ -35,9 +35,8 @@ Outside of professional program management, this GitHub is where I build and run
 | Area | Tools |
 |---|---|
 | Infrastructure | Docker, UniFi, Tailscale, Z-Wave |
-| AI & Dev Tooling | Git, GitHub Copilot, Claude Code |
-| Delivery Methodology | Agile / Scrum, cross-functional program management |
-| Media Production | DaVinci Resolve |
+| AI & Dev Tooling | Claude Code, Warp, VS Code, Gemini |
+| Media Production | DaVinci Resolve, OBS, Camo, Recut |
 
 ---
 
