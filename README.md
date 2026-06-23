@@ -1,10 +1,8 @@
 # Matt McDannel
 
-Builder who ships. TPM by day at the intersection of eng strategy and delivery.
+By day: TPM at the intersection of eng strategy and delivery.
 At night: full-stack products, self-hosted infra, and whatever catches my attention.
-
-Currently building [anonretro.com](https://anonretro.com) — a retro tool that enforces
-anonymity server-side so teams actually say what they think.
+As I clean up my portfolio for public view, I'll expand my project list.
 
 [LinkedIn](https://www.linkedin.com/in/mattmcdannel) · [mattmcdannel.com](https://mattmcdannel.com)
 
