@@ -13,7 +13,7 @@ anonymity server-side so teams actually say what they think.
 ## Featured Projects
 
 **[anonretro](https://github.com/mattmaximum/anonretro)**  
-A self-hosted retrospective tool where cards stay hidden until the facilitator reveals them — eliminating anchoring bias so every voice surfaces at once. Participants join via shared link with no account required; anonymity is enforced server-side, not just CSS. See it live at [anonretro.com](https://anonretro.com).
+A retrospective tool where participants are anonymous by design — join with a link, no account or identity required. Cards stay hidden until the facilitator reveals them, so no one anchors on someone else's take before forming their own. Anonymity is enforced server-side. See it live at [anonretro.com](https://anonretro.com).
 
 **[helios-dashboard](https://github.com/mattmaximum/helios-dashboard)**  
 A real-time solar weather dashboard that visually transforms when geomagnetic storms hit — shifting from calm blue-black to deep crimson at G2+ events, with live NOAA SWPC data for Kp-index, solar wind speed, and interplanetary magnetic field.
