@@ -1,13 +1,12 @@
 # Matt McDannel
 
-**Technical Program Manager**  
+Builder who ships. TPM by day at the intersection of eng strategy and delivery.
+At night: full-stack products, self-hosted infra, and whatever catches my attention.
+
+Currently building [anonretro.com](https://anonretro.com) — a retro tool that enforces
+anonymity server-side so teams actually say what they think.
+
 [LinkedIn](https://www.linkedin.com/in/mattmcdannel) · [mattmcdannel.com](https://mattmcdannel.com)
-
----
-
-I lead complex engineering programs and drive cross-functional delivery across infrastructure, platform, and product teams. I sit at the intersection of high-level architectural strategy and hands-on execution — equally at home in a sprint planning session and a system design doc.
-
-Outside of professional program management, this GitHub is where I build and run my own infrastructure: self-hosted services, homelab automation, and networking configurations that keep me sharp on the technical side.
 
 ---
 
@@ -36,7 +35,6 @@ A real-time solar weather dashboard that visually transforms when geomagnetic st
 |---|---|
 | Infrastructure | Docker, UniFi, Tailscale, Z-Wave |
 | AI & Dev Tooling | Claude Code, Warp, VS Code, Gemini |
-| Media Production | DaVinci Resolve, OBS, Camo, Recut |
 
 ---
 
@@ -45,3 +43,4 @@ A real-time solar weather dashboard that visually transforms when geomagnetic st
 Open to conversations about program management, infrastructure architecture, and the craft of shipping complex technical work.
 
 [linkedin.com/in/mattmcdannel](https://www.linkedin.com/in/mattmcdannel) · [mattmcdannel.com](https://mattmcdannel.com)
+
